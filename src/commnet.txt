@@ -1,0 +1,8 @@
+   title : /* title for popUp */
+   message: {/* message to be display in popup  */}
+  location 1 {/* this will be the id and place it in the div thst will trigger the popup this is not really nessary I am trying to elimanate it */}
+   showIt  {/* this will be false but when it will be true when popup need to be shown */}
+            
+            
+            
+            
